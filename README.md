@@ -1,5 +1,7 @@
 ## Repositorio basado en el artículo [Ionic + OneSignal ](https://www.ion-book.com/blog/ionic2/ionic-and-onesignal/)
 
+## Y en Repositorio basado en el artículo [Ionic + OneSignal for IOS](https://www.ion-book.com/blog/ionic2/ionic-and-onesignal-for-ios/)
+
 Este proyecto usa:
 
 1. Node 8
