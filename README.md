@@ -22,3 +22,5 @@ ionic cordova prepare
 ```
 
 esto es para descargar todas las dependencias del proyecto.
+
+senvdkkypn
